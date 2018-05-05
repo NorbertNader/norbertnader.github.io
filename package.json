@@ -1,0 +1,9 @@
+{
+  "name": "norbertnader.github.io",
+  "version": "1.0.0",
+  "description": "My personal github site",
+  "main": "index.js",
+  "repository": "https://github.com/norbertnader/norbertnader.github.io",
+  "author": "NorbertNader <norbert.nader@gmail.com>",
+  "license": "MIT"
+}
